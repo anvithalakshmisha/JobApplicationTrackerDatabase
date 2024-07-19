@@ -1,6 +1,6 @@
-Database Topic:
+##Database Topic:
 Job Application Tracker
-Database purpose:
+##Database purpose:
 The purpose of the database is to maintain the data of job applicants and use it to track job applications, including job listings, application status, interview dates, and company information.
 Business problem solved:
 The designed database caters to the efficient management of a job application system. 
@@ -83,5 +83,4 @@ Key design decisions in this database include:
 
 Conclusion:
 
-This database design addresses the business problem of efficiently managing job applications, listings, interviews, and related data. By organizing the entities and their relationships, and adhering to normalization principles, this database aims to provide a robust foundation for an effective job application platform
-![image](https://github.com/user-attachments/assets/654d6c04-8cab-49d1-bc00-1158f7fd32d0)
+This database design addresses the business problem of efficiently managing job applications, listings, interviews, and related data. By organizing the entities and their relationships, and adhering to normalization principles, this database aims to provide a robust foundation for an effective job application platform.
