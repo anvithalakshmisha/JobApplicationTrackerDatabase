@@ -1,6 +1,6 @@
-##Database Topic:
+Database Topic:
 Job Application Tracker
-##Database purpose:
+Database purpose:
 The purpose of the database is to maintain the data of job applicants and use it to track job applications, including job listings, application status, interview dates, and company information.
 Business problem solved:
 The designed database caters to the efficient management of a job application system. 
